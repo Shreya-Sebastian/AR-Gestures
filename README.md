@@ -17,7 +17,7 @@ Then open `http://localhost:8181` and allow camera access.
 | Gesture | Effect |
 |---|---|
 | Open palm | Wind |
-| Forward Fist | Earth |
+| Fist | Earth |
 | Point Up (index) | Lightning |
 | Pinch | Ice |
 | Peace sign | Fire |
