@@ -2,7 +2,7 @@
 
 Real-time hand-tracking demo that maps five gestures to elemental visual effects, rendered on a canvas overlay anchored to the palm.
 
-Built with MediaPipe Hands and Canvas 2D — no marker, no app install, runs in the browser.
+Built with MediaPipe Hands and Canvas 2D, and runs in the browser.
 
 ## Run it
 
@@ -17,12 +17,12 @@ Then open `http://localhost:8181` and allow camera access.
 | Gesture | Effect |
 |---|---|
 | Open palm | Wind |
-| Fist | Earth |
-| Point (index) | Lightning — anchors to fingertip |
+| Forward Fist | Earth |
+| Point Up (index) | Lightning — anchors to fingertip |
 | Pinch | Ice |
 | Peace sign | Fire |
 
-Hold each gesture for ~0.3s to activate. The effect follows your hand as you move.
+Hold a gesture briefly to activate its effect. The effect follows your hand as you move.
 
 ## Stack
 
