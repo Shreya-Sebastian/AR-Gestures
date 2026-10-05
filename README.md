@@ -26,6 +26,6 @@ Hold a gesture briefly to activate its effect. The effect follows your hand as y
 
 ## Stack
 
-- [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands) — landmark detection
-- Canvas 2D — particle rendering
+- [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands): landmark detection
+- Canvas 2D: particle rendering
 - No build step, no dependencies to install
